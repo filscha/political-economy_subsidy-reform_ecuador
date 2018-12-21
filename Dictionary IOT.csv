@@ -1,0 +1,246 @@
+IOT_no;IOT_name
+1;Banano y plátano y plantas de banano
+2;Café cereza, sin tostar, no descafeinado y plantas de café
+3;Cacao en grano, crudo o tostado y plantas de cacao
+4;Trigo
+5;Maíz suave
+6;Maíz duro
+7;Arroz con cáscara
+8;Cebada
+9;Avena
+10;Otros cereales n.c.p.
+11;Rosas
+12;Gypsophilas
+13;Claveles
+14;Otras flores y Plantas de flores y semillas de flores
+15;Ramilletes, coronas, arreglos florales y artículos similares
+16;Papa
+17;Yuca
+18;Otros tubérculos y raíces
+19;Brócoli
+20;Lechuga
+21;Tomate
+22;Fréjol fresco o seco
+23;Haba fresca o seca
+24;Arveja fresca o seca
+25;Lenteja
+26;Cebolla blanca y colorada
+27;Sandía
+28;Pimiento
+29;Otros vegetales y melones n.c.p.
+30;Aguacate
+31;Mango
+32;Papaya y Plantas de papaya
+33;Piña y Plantas de piña
+34;Tomate de árbol y Plantas de tomate de árbol 
+35;Limón y Plantas de limón 
+36;Naranja y Plantas de naranja
+37;Mandarina y Plantas de
+38;Maracuyá y Plantas de
+39;Mora
+40;Manzana y Plantas de manzana
+41;Otras frutas n.c.p.
+42;Palma africana y  Plantas de frutos oleaginosos y Plantas de otros productos agrícolas n.c.p.
+43;Soya
+44;Maní
+45;Otras oleaginosas n.c.p.
+46;Caña de azúcar
+47;Tabaco en rama
+48;Algodón en rama y  Semilla de algodón
+49;Abacá
+50;Pasto y plantas forrajeras
+51;Otros productos agrícolas n.c.p.
+52;Servicios relacionados con la agricultura
+53;Ganado bovino y Leche fresca sin elaborar y Cuero sin curtir y piel
+54;Ganado ovino y caprino y lana
+55;Caballos y otros equinos
+56;Ganado porcino
+57;Conejos y cuyes
+58;Pollos (incluidos pollitos de un día)
+59;Otras aves n.c.p.
+60;Otros animales vivos n.c.p. (excepto ranas)
+61;Huevos
+62;Productos comestibles de origen animal n.c.p.
+63;Otros productos de otros animales n.c.p.
+64;Madera sin elaborar
+65;Plantas de árboles maderables.
+66;Caucho natural (en formas primarias o planchas)
+67;Otros productos de la silvicultura n.c.p.
+68;Larvas de camarón
+69;Camarón vivo o fresco
+70;Atún
+71;Pescado vivo, fresco o refrigerado (excepto atún)
+72;Otros productos de la pesca n.c.p.
+73;Tilapia
+74;Otros productos de la acuicultura (incluye ranas)
+75;Petróleo crudo
+76;Gas natural
+77;Servicios relacionados con el petróleo y gas natural
+78;Minerales de metales preciosos
+79;Minerales de cobre y sus concentrados
+80;Otros minerales metalíferos
+81;Piedras, arenas y arcillas
+82;Otros minerales no metálicos n.c.p.
+83;Carne de ganado bovino y Despojos comestibles de mamíferos y Otros productos y subproductos de la carne n.c.p.
+84;Carne de ganado porcino , con grasas animales en bruto (incluye manteca de cerdo) y despojos comestibles de mamíferos
+85;Carne de otro tipo de ganado n.c.p. y despojos comestibles de mamíferos
+86;Carne de pollo y Carne de otras aves de corral y despojos de aves de corral
+87;Embutidos, conservas y preparados de carne
+88;Camarón elaborado
+89;"Pescado congelado, seco o salado; filetes de pescado"
+90;Otros productos de especies acuáticas elaboradas y Otros productos y subproductos de la pesca n.c.p.
+91;Harina de pescado (excepto de consumo humano)
+92;Preparados y conservas de pescado y de otras especies acuáticas
+93;Grasas animales fundidas (excepto de cerdo y aves de corral)
+94;Aceites vegetales crudos
+95;Aceites refinados
+96;Margarina y otros aceites y grasas vegetales
+97;Otros productos de oleaginosas
+98;Leche elaborada
+99;Productos derivados de la leche
+100;Harina de trigo
+101;Arroz pilado, blanqueado y pulido
+102;Otras harinas vegetales, sémolas y otros prod
+103;Almidones y sus productos
+104;Productos de la panadería y pastelería
+105;Fideos, macarrones y otros productos farináceos similares
+106;Azúcar sin refinar, refinada y sacarosa y melaza
+107;Cacao elaborado sin edulcorantes
+108;Chocolate y bombones (incluye polvo de cacao con edulcorante)
+109;Productos de confitería
+110;Alimento para animales
+111;Café tostado, molido, soluble y otros n.c.p.
+112;Otros productos alimenticios n.c.p.
+113;"Alcohol etílico y bebidas alcohólicas;  Cerveza y malta "
+114;Bebidas no alcohólicas
+115;Cigarrillos y otros productos de tabaco
+116;Hilos e hilados de fibras textiles
+117;Tejidos y telas de fibras textiles
+118;Confecciones con materiales textiles (excepto prendas de vestir)
+119;Prendas de vestir (inclusive de cuero y piel)
+120;Cuero y piel curtida
+121;Productos de cuero (excepto calzado y prendas de vestir)
+122;Calzado de cualquier material
+123;Madera aserrada, cortada o descortezada
+124;Tableros, paneles y hojas de madera
+125;Obras de carpintería para edificios
+126;Cajas, cajones y otros productos de madera, corcho y trensables
+127;Pasta de papel y Papel y cartón 
+128;Cajas de cartón y otros prod de papel y cartón
+129;Productos editoriales imprentas y otros productos n.c.p.
+130;Gasolinas, Nafta y gasolina natural
+131;Diesel
+132;Fuel Oil
+133;"Spray oil,  Otros combustibles y aceites de petróleo (incluye lubricantes) y  Otros productos y subproductos de petróleo; coque y alquitrán"
+134;Gases de hidrocarburos
+135;Productos químicos básicos
+136;Abonos y plaguicidas
+137;Plásticos primarios y caucho sintético y artificial
+138;Pinturas, barnices, lacas, colores y tintas
+139;Productos farmacéuticos y medicamentos
+140;Jabón y detergentes
+141;Perfumes y preparados de tocador
+142;Preparados para limpiar y pulir
+143;Fibras sintéticas (textiles manufacturadas) y Otros productos químicos n.c.p.
+144;Neumáticos y cámaras de aire
+145;Otros productos de caucho n.c.p.
+146;Productos de plástico
+147;Vidrio y productos de vidrio
+148;Productos de cerámica no estructurales
+149;Productos refractarios, productos de arcilla no refractarios estructurales 
+150;Cemento y clinker de cemento
+151;"Artículos de hormigón, cemento y yeso; cal y yeso"
+152;Piedras y otros productos de minerales no metálicos 
+153;Productos de hierro y acero
+154;Metales preciosos y enchapados con metales preciosos 
+155;Productos de otros metales
+156;Productos metálicos estructurales
+157;Productos metálicos de uso doméstico
+158;Armas y municiones, partes y piezas
+159;Otros productos metálicos n.c.p.
+160;Maquinaria para usos generales
+161;Maquinaria para usos especiales (excepto de uso doméstico)
+162;Aparatos de uso doméstico, partes y piezas
+163;Máquinas de oficina y contabilidad (excepto informática)
+164;"Maquinaria informática; partes, piezas y accesorios"
+165;Maquinaria y aparatos eléctricos
+166;Equipos y aparatos de radio, TV y comunicaciones
+167;"Equipo radiológico, electromédico; instrumentos ópticos; de medición y control; relojes y otra maquin y equipo n.c.p."
+168;Vehículos automotores
+169;Otro equipo y material de transporte n.c.p.
+170;Muebles de cualquier material
+171;Joyas
+172;Aparatos de laboratorio, odontológicos y otros instrumentos médicos n.c.p. 
+173;Otros productos manufacturados diversos
+174;Servicios de reparación e instalación de maquinaria y equipo
+175;Energía eléctrica
+176;Servicios de transmisión y distribución eléctrica
+177;Agua
+178;Gas de productos diferentes al petróleo y distribución de gas por tuberías
+179;Servicios de saneamiento y remediación
+180;Construcción
+181;Servicios de comercio
+182;Servicios de reparación y mantenimiento de vehículos de motor y motocicletas
+183;Servicios de hotelería y alojamiento
+184;Servicios de suministro de comida y de bebida
+185;Servicios de transporte de pasajeros por carretera
+186;Serv de transporte de carga por carretera
+187;Servicios de transporte por ferrocarril
+188;Servicios de transporte por tubería
+189;Servicios de transporte por vía acuática
+190;Servicios de transporte de pasajeros por vía aérea 
+191;Servicios de transporte de carga por vía aérea
+192;Servicios de alquiler de vehículos de transporte con tripulación
+193;Servicios de carga y descarga
+194;Servicios de almacenamiento
+195;Servicios complementarios y auxiliares del transporte
+196;Servicios postales y de mensajería
+197;Servicios de Comunicación e información
+198;Servicios de Banca Central
+199;Servicios de intermediación financiera de otras instituciones de depósito y  SIFMI (Servicio de Intermediación Financiera Medido Indirectamente)
+200;Fondos de inversión
+201;Otros servicios de intermediación financiera
+202;Servicios auxiliares de intermediación financiera
+203;Serv de seguros de vida
+204;Serv de planes de pensiones
+205;Otros servicios de seguros
+206;Alquiler de vivienda
+207;Alquiler imputado de vivienda
+208;Otros servicios inmobiliarios
+209;"Servicios de investigación y desarrollo; y,  Servicios de concesión de licencias para el derecho de uso de activos intangibles"
+210;Servicios jurídicos y legales
+211;Servicios de contabilidad, auditoría y otros
+212;Servicios de asesoría y consultoría
+213;Servicios de arquitectura, ingeniería y análogos
+214;Servicios de publicidad
+215;Servicios de estudios de mercado y encuestas
+216;Servicios fotográficos
+217;Otros servicios profesionales y técnicos
+218;Servicios veterinarios
+219;Servicios de empleo
+220;Servicios de investigación y seguridad
+221;Servicios de limpieza
+222;Servicios de arrendamiento de maquinaria y otros artículos sin operarios
+223;Servicios de agencias de viajes y análogos
+224;Servicios de reparación de computadoras y otros enseres domésticos
+225;Otros servicios empresariales n.c.p.
+226;Servicios administrativos del gobierno
+227;Servicios de la seguridad social obligatoria
+228;Servicios de enseñanza preprimaria y primaria privada (de mercado)
+229;Servicios de enseñanza secundaria privada (de mercado)
+230;Servicios de enseñanza superior privada (de mercado)
+231;Otros servicios de enseñanza privada (de mercado)
+232;Otros servicios de enseñanza privada (ISFLSH)
+233;Servicios de enseñanza preprimaria y primaria público (no de mercado)
+234;Servicios de enseñanza secundaria público (no de mercado)
+235;Servicios de enseñanza superior público (no de mercado)
+236;Otros servicios de enseñanza público (no de mercado)
+237;Servicios de salud de mercado (privados)
+238;Servicios sociales de mercado (privados)
+239;Otros servicios sociales y de salud (ISFLSH)
+240;Servicios de salud no de mercado (pública)
+241;Servicios de asociaciones
+242;Servicios recreacionales, culturales y deportivos
+243;"Servicios de asociaciones; esparcimiento; culturales y deportivos (ISFLSH)"
+244;Otros servicios n.c.p.
+245;Servicio doméstico
