@@ -1,8 +1,6 @@
 # political-economy_subsidy-reform_ecuador
 Estimating the distributional impacts of energy subsidy removal and compensation schemes in Ecuador based on input-output and household data.<br/>
 
-Files will soon be available for public download!<br/>
-
 Import files:  
 Dictionary Categories.csv, Dictionary ENI-IOT.csv, and Dictionary Subcategories.csv based on [1]  
 Dictionary IOT.csv and IOT_2012.csv (cannot be redistruted) based on [2]  
